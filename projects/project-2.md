@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/welevator.png
+image: images/elevator.jpg
 title: Multiple elevators
 permalink: projects/multiple-elevators
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: Programming multiple elevators to cooperate and serve orders using network.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/elevator.jpg">
+<img class="ui medium right floated rounded image" src="../images/welevator.png">
 
 In this project my team programmed multiple elevators by creating software for controlling n elevators working in parallel across m floors. The elevators were supposed to sufficiently sereve orders and work logically. No orders were supposed to be lost. 
 
