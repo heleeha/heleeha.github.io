@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/elevator.jpg
+image: images/welevator.png
 title: Elevator
-permalink: projects/welevator
+permalink: projects/elevator
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-01
 labels:
