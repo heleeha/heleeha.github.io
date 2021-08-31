@@ -1,61 +1,24 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/classification_types.png
+title: Classification
+permalink: projects/classification
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-04-30
 labels:
-  - Lisp
+  - Matlab
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: A classification project, classifying different iris variants and handwritten numbers from pictures.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Iris_flower.png">
+<img class="ui image" src="{{ site.baseurl }}/images/numbers.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This project was a part of the course content in "TTT 4275 - estimation, detection and classification". This project was solved in pairs of two. Classification is a way to separate and categorize different objects into groups or categories. Doing classification with a computer often implies using different algorithms combined with already pre-categorized training data. The goal with this project was to get some knowledge on how the linear classifier and the nearest neighbour method are implemented, trained, and how they work in practice. The goal was also to observe how computers manage to recognize the objects and use data to classify them correctly.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The first task used a linear classifier to classify three different variants of the Iris flower. 
+The linear classifier was quite easy to implement and train, and work very well.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+The second task used a template based classifier, with different variants of the nearest neighbour decision rule. This classifier was also quite simple to implement. The task was to use the different variants of the classifier to classify images of handwritten numbers from 0-9. The results of the different classifiers were a bit surprising, but overall the classifier work really well.
 
