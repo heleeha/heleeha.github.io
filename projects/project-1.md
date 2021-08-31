@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/welevator.png
+image: images/elevator.jpg
 title: Elevator
 permalink: projects/elevator
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ summary: My team developed a program for an elevator.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/elevator.jpg">
+  <img class="ui image" src="../images/welevator.png">
 </div>
 
 In this project our team developed a program for controlling one elevator with four floors. The program used sensors to determine wich buttons were being pushed and in wich floor the elevator was. The elevator was supposed to behave logically and all orders needed to be served. It also needed to meet some specified requirements, like how it should behace when the stop button was pushed or if there was a door obstruction. I was in a team with one other person and we did most of the project together and contributed the same amount. We distributed the workload between us and discussed if there were any issues.
