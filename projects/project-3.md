@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/classification_types.png
+image: images/classifications_types.png
 title: Classification
 permalink: projects/classification
 # All dates must be YYYY-MM-DD format!
