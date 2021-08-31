@@ -1,17 +1,18 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: What I thik about Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 labels:
   - Software Engineering
   - Learning
+  - Javascript
 ---
 
 <img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Javascript is a new language to me. I did the FreeCodeCamp Basic Javascript and ES6 courses to learn the Javascript syntax and concepts. Some of the languages I have previously coded in are python, matlab and C++. The concepts, like first-class functions, of Javascript seem quite similar to python, but the syntax is seems closer to C++ as you need ';' 
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
