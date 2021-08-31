@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Helene Haugen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://heleeha.github.io/images/heleeha.JPG",
+    "email": "heleneeh@hawaii.edu",
+    "phone": "",
+    "website": "https://heleeh.github.io",
+    "summary": "I am student at the Norwegian University of Science and Technology. I am currently on my 4th year of my integrated masters degree program of Cybernetics and Robotics. This year I am taking as an exchange year at the University of Hawaii at Manoa.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96815",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "heleeha",
+        "url": "http://github.com/heleeha"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "haugenhelene",
+        "url": "http://linkedin.com/in/haugenhelene"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "control theory",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "machine learning",
       "keywords": [
       ]
     }
@@ -63,10 +53,11 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Matlab",
+        "Go"
+        "Assembly"
       ]
     },
     {
@@ -75,16 +66,14 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science and Electrical Engineering  (one exchange year)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
