@@ -5,7 +5,7 @@ title: What I think about Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 labels:
-  - Software Engineering
+  - Athletic Software Engineering
   - Learning
   - Javascript
 ---
@@ -15,11 +15,9 @@ Javascript is a new language to me. I did the FreeCodeCamp Basic Javascript and 
 
 I also like the ES6 as it makes the code more modern and readable. I like that you are able to differentiate between constant variables and variables that change by using "const" and "let". This makes it easier to make sure that I do not change any variables that I want to be constant.
 
+Athletic software engineering is the concept of practicing software in the same way that you would practice a sport, by doing a little every day instead of 10 hours in one session. I enjoy this way of learning, I both learn faster and remember more of what I have learned. The practice WOD are usefull as I get to test my knowledge and abilities. I can easily see if I manage to do the problems faster or slower than average. I enjoy this learning strategy and think it will work well for me. I am looking forward to continuing athletic software engineering.
 
-
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+(This picture is borrowed from the techfolio tempelate)
 
