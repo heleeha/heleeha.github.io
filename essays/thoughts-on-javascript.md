@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What I thik about Javascript
+title: What I think about Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 labels:
