@@ -10,11 +10,12 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
 
-Javascript is a new language to me. I did the FreeCodeCamp Basic Javascript and ES6 courses to learn the Javascript syntax and concepts. Some of the languages I have previously coded in are python, matlab and C++. The concepts, like first-class functions, of Javascript seem quite similar to python, but the syntax is seems closer to C++ as you need ';' 
+Javascript is a new language to me. I did the FreeCodeCamp Basic Javascript and ES6 courses to learn the Javascript syntax and concepts. Some of the languages I have previously coded in are python, matlab and C++. The concepts, like first-class functions, of Javascript seem quite similar to python. But the syntax is seems closer to C++ as you need ";" at the end of most lines and for loops are the same as in C++. I like Javascript as the syntax is easy and from my understanding it is versatile and has the power to create apps for back end, front end, mobile and desktop. 
 
-<img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
+I also like the ES6 as it makes the code more modern and readable. I like that you are able to differentiate between constant variables and variables that change by using "const" and "let". This makes it easier to make sure that I do not change any variables that I want to be constant.
+
+
 
 I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
 
