@@ -20,5 +20,11 @@ Athletic software engineering is the concept of practicing software in the same 
 
 
 <img class="ui medium middle square floated image" src="../images/software-code.jpg">
+
+
+
+
+
+
 (This picture is borrowed from the techfolio tempelate)
 
