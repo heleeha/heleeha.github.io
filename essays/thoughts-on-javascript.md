@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: What I think about Javascript
+title: Learning Javascript with an Athletic Software Engineering Approach 
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 labels:
@@ -10,6 +10,7 @@ labels:
   - Javascript
 ---
 
+In the course ICS 314 Software Engineering I am learning the coding language Javascript and using an athletic software engeneering approach.
 
 Javascript is a new language to me. I did the FreeCodeCamp Basic Javascript and ES6 courses to learn the Javascript syntax and concepts. Some of the languages I have previously coded in are python, matlab and C++. The concepts, like first-class functions, of Javascript seem quite similar to python. But the syntax is seems closer to C++ as you need ";" at the end of most lines and for loops are the same as in C++. I like Javascript as the syntax is easy and from my understanding it is versatile and has the power to create apps for back end, front end, mobile and desktop. 
 
