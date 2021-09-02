@@ -19,7 +19,7 @@ I also like the ES6 as it makes the code more modern and readable. I like that y
 Athletic software engineering is the concept of practicing software in the same way that you would practice a sport, by doing a little every day instead of 10 hours in one session. I enjoy this way of learning, I both learn faster and remember more of what I have learned. The practice WOD are usefull as I get to test my knowledge and abilities. I can easily see if I manage to do the problems faster or slower than average. I enjoy this learning strategy and think it will work well for me. I am looking forward to continuing learning using athletic software engineering.
 
 
-<img class="ui medium middle square floated image" src="../images/software-code.jpg">
+<img class="ui medium middle square floated image" src="../images/software-code.jpg">*This picture is borrowed from the techfolio tempelate*
 <br />
 <br />
 <br />
