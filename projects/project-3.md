@@ -11,8 +11,8 @@ labels:
   - GitHub
 summary: A classification project, classifying different iris variants and handwritten numbers from pictures.
 ---
-classifications_types.png
-<div class="ui small images">
+
+<div class="ui madium images">
   <img class="ui image" src="../images/classifications_types.png"> *Different classification types*
   <img class="ui image" src="../images/Iris_flower.png"> *The different variants of the Iris flower*
   <img class="ui image" src="../images/numbers.jpg"> *Examples of handwritten numbers*
