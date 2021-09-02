@@ -15,7 +15,7 @@ summary: A classification project, classifying different iris variants and handw
 
 <img class="ui medium image" src="../images/classifications_types.png"> *Different classification types*
 <img class="ui medium image" src="../images/Iris_flower.png"> *The different variants of the Iris flower*
-<img class="ui image" src="../images/numbers.jpg"> *Examples of handwritten numbers*
+<img class="ui medium image" src="../images/numbers.jpg"> *Examples of handwritten numbers*
 
 
 This project was a part of the course content in "TTT 4275 - estimation, detection and classification". This project was solved in pairs of two. Classification is a way to separate and categorize different objects into groups or categories. Doing classification with a computer often implies using different algorithms combined with already pre-categorized training data. The goal with this project was to get some knowledge on how the linear classifier and the nearest neighbour method are implemented, trained, and how they work in practice. The goal was also to observe how computers manage to recognize the objects and use data to classify them correctly.
