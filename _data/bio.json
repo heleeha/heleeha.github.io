@@ -74,8 +74,18 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science and Electrical Engineering  (one exchange year)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "studyType": "Exchange year",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Norwegian University of Science and Technology, Trondheim, Norway",
+      "area": "Cybernetics and Robotics",
+      "studyType": "M.Sc.",
+      "startDate": "2018-08-10",
       "endDate": "Present",
       "gpa": "",
       "courses": [
