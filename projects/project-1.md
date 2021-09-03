@@ -13,7 +13,7 @@ summary: My team developed a program for an elevator.
 ---
 
 
-<img class="ui medium right floated image" src="../images/elevator.jpg"> *Picture of the control panal for the elevator*
+<img class="ui medium image" src="../images/elevator.jpg"> *Picture of the control panal for the elevator*
 
 
 In this project our team developed a program for controlling one elevator with four floors. The goal of the project was to make sure the program was ready for the Factory Acceptance Test(FAT) at a given date, as well as making a good design before the implementation began, and writing good and readable code. 
