@@ -25,3 +25,8 @@ The linear classifier was quite easy to implement and train, and work very well.
 
 The second task used a template based classifier, with different variants of the nearest neighbour decision rule. This classifier was also quite simple to implement. The task was to use the different variants of the classifier to classify images of handwritten numbers from 0-9. The results of the different classifiers were a bit surprising, but overall the classifier work really well.
 
+We worked in a team of two people. I did the first part of the project, making a linear classifier to classify the different variants of the Iris flower, mostly by myself. The second part, using the nearest neighbor classifier to classify handwritten numbers, we did together. I contributed most with coding and plotting, while the other person in my group contributed more with writing theory for the report. But we both did a little bit of each.
+
+Here is a PDF of the report for further reading: [Classification_Project.pdf](https://github.com/heleeha/heleeha.github.io/files/7103183/Classification_Project.pdf)
+
+
