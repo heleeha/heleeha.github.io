@@ -21,6 +21,4 @@ I had previously programmed one elevator (you can read more about this in my oth
 
 We worked in a team of three people. My contribution to this project was to be a member of the team and I therefore contributed to both designing and implementing the code. I also took on the role as sort of a team-leader by making decisions and making sure the project progressed in the right direction.
 
-Here is a link to the github repository with more information and source-code: https://github.com/TTK4145-Students-2021/project-gruppe32
-
-[Multiple Elevators](https://github.com/TTK4145-Students-2021/project-gruppe32).
+Here is a link to the github repository with more information and source-code: [Multiple Elevators](https://github.com/TTK4145-Students-2021/project-gruppe32).
