@@ -32,6 +32,7 @@ I also enjoy the ES6 which was the second major revision of Javascript that came
 <br />
 <br />
 <br />
+<br />
 
 *This picture is borrowed from the techfolio tempelate*
 
