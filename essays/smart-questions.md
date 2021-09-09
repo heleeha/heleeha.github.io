@@ -20,7 +20,10 @@ labels:
 - Be courteous
 
 When developing software there will always be problems or challanges that you meet. There are a lot of possibilities to get help 
-and many people who are willing to spend time helping you. At the ame time people are more willing to be helpfull if you ask questions in a smart way.
+and many people who are willing to spend time helping you. At the ame time people are more willing to be helpfull if you ask questions in a smart way. There are many ways and places to ask questions, one of them is the Stack Exchange site StackOverFlow.
+
+## Before you ask
+The most important thing to do before you ask questions on sites like StackOverFlow is do do research. People are less willing to help if it does not seem like you have thought about the problem before you ask it or if the same question has been asked many times before. Therefore, start by searching on Google, then on Stack Exchange sites to see if any one else has had the same question or problem as you. You should also try to inspect your code or experiment before you ask questions, sometimes you can find the problem on you own by taking some time to look it over.
 
 
 
