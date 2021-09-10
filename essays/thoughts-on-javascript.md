@@ -18,6 +18,8 @@ Since Javascript is a new language to me, I began by compleating a couple of cor
 
 I like Javascript as the syntax is easy and from my understanding it is versatile and has the power to create apps for back end, front end, mobile and desktop.
 I also enjoy the ES6 which was the second major revision of Javascript that came in 2015. ES6 makes the code more modern and readable. I like that you are able to differentiate between constant variables and variables that change by using "const" and "let". This makes it easier to make sure that I do not change any variables that I want to be constant.
+
+
 <img class="ui medium middle square floated image" src="../images/software-code.jpg">
 <br />
 <br />
