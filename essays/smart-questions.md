@@ -10,7 +10,7 @@ labels:
   - StackOverflow
 ---
 
-When developing software there will always be problems or challenges that you meet. Personally, I have had many problems and questions throughout my computer-science studies so far. There are a lot of possibilities to get help 
+When developing software there will always be problems or challenges that you meet. Personally, I have had many problems and questions throughout my computer-science studies so far. But I have never really thought about what the best way to find the answers to my questions is. There are a lot of possibilities to get help 
 and many people who are willing to spend time helping you. At the same time, people are more willing to be helpful if you ask questions in a smart way. You will also probably find the answer to your question a lot faster if you ask them the right way. Some guidelines to asking smart questions are written by [Eric Raymond](http://www.catb.org/esr/faqs/smart-questions.html). There are many ways and places to ask questions, one of them is the Stack Exchange site StackOverFlow.
 
 ## Before you ask
