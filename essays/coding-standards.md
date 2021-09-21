@@ -10,10 +10,6 @@ labels:
   - ESLint
 ---
 
-Learn the language, a lot is allowed, but may cause confusion and errors
-Have a standard way makes it easyer to understand other peoples code and collaborate
-Satisfaction whith the green checkmark
-
 Coding standards is not only used to make your code pretty, they also have a lot of other purposes. 
 Coding standards are collections of guidelines, coding rules and best practices. 
 This week I have been trying out the coding standard ESLint with IntelliJ, and I can tell you that there are few things that are more satisfying 
