@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards will improve your life  
+title: Coding standards will improve your life  
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-21
 labels:
