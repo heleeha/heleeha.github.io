@@ -20,10 +20,10 @@ Even though I find UI Semantic difficult to learn. In my experience, UI Semantic
 Underneath you can see images of two different web pages about browser history. I tried making this website using only raw HTML and CSS at first. You can see the result in the two first images, the left one is a screenshot of a big window and the right one is a screenshot of a narrower window. As you can see from the images the web page looks old-fashioned, especially the menu on top. It is also easy to observe that the page does not adjust well when the window gets narrower.
 
 <div class="ui column grid">
-    <div class="ten wide column">
+    <div class="nine wide column">
     <img class="ui image" src="../images/browser_big.png">
       </div>
-    <div class="eight wide column">
+    <div class="seven wide column">
     <img class="ui image" src="../images/browser_small.png">
       </div>
   </div>
@@ -32,11 +32,11 @@ Underneath you can see images of two different web pages about browser history. 
  
 After making the web page using only raw HTML and CSS I tried making it using UI Semantic. In the images underneath you can see the different attempts first in a big window to the left, then in a narrower window. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted. You can still see the whole menu in one line and all the columns and headers are visible. Using containers to get the page to adjust makes it a lot easier to make web pages. Having different elements, collections, views, and modules makes it possible to design a modern web page quickly and it has almost everything you would want for building your page. On the other hand, it is not possible to customize everything exactly as you may want to. Therefore it can feel a bit restricting.
 
-  <div class="ui two column grid">
-  <div class="column">
+  <div class="ui column grid">
+  <div class="nine wide column">
     <img class="ui big image" src="../images/ui_browser_big.png">
     </div>
-  <div class="column">
+  <div class="seven wide column">
     <img class="ui big image" src="../images/ui_browser_small.png">
     </div>
   </div>
