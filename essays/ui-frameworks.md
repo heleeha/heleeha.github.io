@@ -17,7 +17,7 @@ Even though I found UI Semantic difficult to learn. In my experience, UI Semanti
 
 ## A web page without Semantic UI
 
-Underneath you can see images of two different web pages about browser history. I made this website using only raw HTML and CSS at first. You can see the result in the images, the left one is a screenshot of a big window and the right one is a screenshot of the web page in a narrower window. As you can see from the images the web page looks old-fashioned, especially the top menu. It was difficult and took a long time to get the columns to look nice using only HTM and CSS. Still it is easy to observe that the page does not adjust well when the window gets narrower, and the last collumn is moved underneath the others.
+Underneath you can see images of two different web pages about browser history. I made this website using only raw HTML and CSS at first. You can see the result in the images, the left one is a screenshot of a big window and the right one is a screenshot of the web page in a narrower window. As you can see from the images the web page looks old-fashioned, especially the top menu. The last element of the menu is moved down to the next line when the window gets narrower, and this does not look good. It was difficult and took a long time to get the columns to look nice using only HTM and CSS. Still it is easy to observe that the page does not adjust well when the window gets narrower, and the last collumn is moved underneath the others.
 
 <div class="ui column grid">
     <div class="ten wide column">
