@@ -17,7 +17,7 @@ Even though I found UI Semantic difficult to learn. In my experience, UI Semanti
 
 ## A web page without Semantic UI
 
-Underneath you can see images of two different web pages about browser history. I made this website using only raw HTML and CSS at first. You can see the result in the images, the left one is a screenshot of a big window and the right one is a screenshot of the web page in a narrower window. As you can see from the images the web page looks old-fashioned, especially the top menu. It is also easy to observe that the page does not adjust well when the window gets narrower.
+Underneath you can see images of two different web pages about browser history. I made this website using only raw HTML and CSS at first. You can see the result in the images, the left one is a screenshot of a big window and the right one is a screenshot of the web page in a narrower window. As you can see from the images the web page looks old-fashioned, especially the top menu. It was difficult and took a long time to get the columns to look nice using only HTM and CSS. Still it is easy to observe that the page does not adjust well when the window gets narrower, and the last collumn is moved underneath the others.
 
 <div class="ui column grid">
     <div class="ten wide column">
@@ -30,7 +30,7 @@ Underneath you can see images of two different web pages about browser history. 
   
 ## A web page using Semantic UI
  
-After making the web page using only raw HTML and CSS I tried making it using UI Semantic. In the images underneath you can see the different attempts first in a big window to the left, then in a narrower window to the right. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted. You can still see the whole menu in one line and all the columns and headers are visible. Using containers to get the page to adjust makes it a lot easier to make web pages. Having different elements, collections, views, and modules makes it possible to design a modern web page quickly and it has almost everything you would want for building your page. On the other hand, it is not possible to customize everything exactly as you may want to. Therefore it can feel a bit restricting.
+After making the web page using only raw HTML and CSS I tried making it using UI Semantic. In the images underneath you can see the different attempts first in a big window to the left, then in a narrower window to the right. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted. In contrast to the web page without Semantic UI, you can here still see the whole top menu in one line and all three columns are visible in the narrower window. Using containers to get the page to adjust makes it a lot easier to make web pages. Having different elements, collections, views, and modules makes it possible to design a modern web page quickly and it has almost everything you would want for building your page. On the other hand, it is not possible to customize everything exactly as you may want to. Therefore it can feel a bit restricting. However, all over I am very found of Semantiv UI, and I got the web page looking the way I wanted I lot faster using Semantic UI.
 
   <div class="ui column grid">
   <div class="ten wide column">
