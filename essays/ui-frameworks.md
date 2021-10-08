@@ -20,11 +20,22 @@ is a front-end development framework designed for theming. It contains pre-built
 
 Even though I find UI Semantic difficult to learn and a bit confusing. In my experience UI Semantic makes it a lot easier to get a modern look on your website fast. Collections like menus and grids makes this possible, and this would be a lot more difficult using raw HTML and CSS. 
 
-I tried making this website about browser history first using only raw HTML and CSS before I tried making it using UI Semantic. In these images you can see the different attemts first in a big window, then in a narroer window. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted.
+I tried making this website about browser history first using only raw HTML and CSS before I tried making it using UI Semantic. In these images you can see the different attemts first in a big window, then in a narrower window. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted.
 
-<img class="ui medium image" src="../images/browser_big.png">
-<img class="ui medium image" src="../images/browser_small.png">
-<img class="ui medium image" src="../images/ui_browser_big.png">
-<img class="ui medium image" src="../images/ui_browser_small.png">
+<div class="ui four column grid">
+  <div class="row">
+    <div class="column">
+    <img class="ui big image" src="../images/browser_big.png">
+      </div>
+    <div class="column">
+    <img class="ui big image" src="../images/browser_small.png">
+      </div>
+  </div>
+  <div class="column">
+    <img class="ui big image" src="../images/ui_browser_big.png">
+    </div>
+  <div class="column">
+    <img class="ui big image" src="../images/ui_browser_small.png">
+    </div>
 
 
