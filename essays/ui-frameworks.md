@@ -20,10 +20,9 @@ is a front-end development framework designed for theming. It contains pre-built
 
 Even though I find UI Semantic difficult to learn and a bit confusing. In my experience UI Semantic makes it a lot easier to get a modern look on your website fast. Collections like menus and grids makes this possible, and this would be a lot more difficult using raw HTML and CSS. 
 
-I tried making this website about browser history first using only raw HTML and CSS before I tried making it using UI Semantic. In these images you can see the different attemts first in a big window, then in a narrower window. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted.
+Underneath you can see images of two different web pages about browser history. I tried making this website using only raw HTML and CSS at first. You can see the result in the two first images, the left one is a screenshot of a big window and the right one is a screenshot of a narrower window. As you can see from the images the web page looks old fashioned, especially the menu on top. It is also easy to observe that the page does not adjust well when the window gets narrower. 
 
 <div class="ui two column grid">
-  <div class="row">
     <div class="column">
     <img class="ui image" src="../images/browser_big.png">
       </div>
@@ -31,11 +30,16 @@ I tried making this website about browser history first using only raw HTML and 
     <img class="ui image" src="../images/browser_small.png">
       </div>
   </div>
+  
+After making the web page using only raw HTML and CSS I tried making it using UI Semantic. In these images you can see the different attemts first in a big window, then in a narrower window. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted.
+
+  <div class="ui two column grid">
   <div class="column">
     <img class="ui big image" src="../images/ui_browser_big.png">
     </div>
   <div class="column">
     <img class="ui big image" src="../images/ui_browser_small.png">
     </div>
+  </div>
 
 
