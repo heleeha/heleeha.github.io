@@ -22,4 +22,9 @@ Even though I find UI Semantic difficult to learn and a bit confusing. In my exp
 
 I tried making this website about browser history first using only raw HTML and CSS before I tried making it using UI Semantic. In these images you can see the different attemts first in a big window, then in a narroer window. You can clearly see from these images that the webpage using UI Semantic looks a lot more modern and that it actually adjusts when the window is adjusted.
 
-<img class="ui medium image" src="../images/elevator.jpg"> *Picture of the control panal for the elevator*
+<img class="ui medium image" src="../images/browser_big.png">
+<img class="ui medium image" src="../images/browser_small.png">
+<img class="ui medium image" src="../images/ui_browser_big.png">
+<img class="ui medium image" src="../images/ui_browser_small.png">
+
+
