@@ -23,7 +23,7 @@ Underneath you can see images of two different web pages about browser history. 
     <div class="ten wide column">
     <img class="ui image" src="../images/browser_big.png">
       </div>
-    <div class="six wide column">
+    <div class="eight wide column">
     <img class="ui image" src="../images/browser_small.png">
       </div>
   </div>
