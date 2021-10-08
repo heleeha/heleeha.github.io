@@ -20,10 +20,10 @@ Even though I find UI Semantic difficult to learn. In my experience, UI Semantic
 Underneath you can see images of two different web pages about browser history. I tried making this website using only raw HTML and CSS at first. You can see the result in the two first images, the left one is a screenshot of a big window and the right one is a screenshot of a narrower window. As you can see from the images the web page looks old-fashioned, especially the menu on top. It is also easy to observe that the page does not adjust well when the window gets narrower.
 
 <div class="ui two column grid">
-    <div class="column">
+    <div class="five wide column">
     <img class="ui image" src="../images/browser_big.png">
       </div>
-    <div class="column">
+    <div class="three wide column">
     <img class="ui image" src="../images/browser_small.png">
       </div>
   </div>
