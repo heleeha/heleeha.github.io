@@ -23,7 +23,7 @@ Underneath you can see images of two different web pages about browser history. 
     <div class="ten wide column">
     <img class="ui image" src="../images/browser_big.png">
       </div>
-    <div class="seven wide column">
+    <div class="six wide column">
     <img class="ui image" src="../images/browser_small.png">
       </div>
   </div>
@@ -36,7 +36,7 @@ After making the web page using only raw HTML and CSS I tried making it using UI
   <div class="ten wide column">
     <img class="ui big image" src="../images/ui_browser_big.png">
     </div>
-  <div class="seven wide column">
+  <div class="six wide column">
     <img class="ui big image" src="../images/ui_browser_small.png">
     </div>
   </div>
