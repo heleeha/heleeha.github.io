@@ -15,7 +15,10 @@ labels:
 Design patterns is a vague concept that is difficult to grasp. After watching a couple of videos and searching the internet for a while, I finally feel like 
 I have an understanding of what design patterns actually are. To sum it up I would say; 
 reusable solutions that are typical to commonly occuring problems in software design are called design patterns. 
-We can say that the patterns are templates that can be costumized to solve a spesific design problem.
+We can say that the patterns are templates that can be costumized to solve a spesific design problem, and they are best practices for solving common problems.
+Desig patterns originate from Cristopher Alexander, in 1977 he wrote that a design pattern "describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice."
+
+Design patterns can be categorized into creational patterns, structural patterns and behavioral patterns.
 
 Design patterns are typical solutions to common problems
 in software design. Each pattern is like a blueprint
