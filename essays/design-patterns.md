@@ -16,9 +16,13 @@ Design patterns is a vague concept that is difficult to grasp. After watching a 
 I have an understanding of what design patterns actually are. To sum it up I would say; 
 design patterns are typical and reusable solutions that can be used for commonly occuring problems in software design. 
 We can say that the patterns are templates that can be costumized to solve a spesific design problem, and they are best practices for solving common problems.
-Desig patterns originate from Cristopher Alexander, in 1977 he wrote that a design pattern "describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice."
+Design patterns originate from Cristopher Alexander, in 1977 he wrote that a design pattern "describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice."
 
 Design patterns can be categorized into creational patterns, structural patterns and behavioral patterns.
+Factory and Sigelton are examples of creational patterns.
+Observer is an example of a structural pattern.
+
+
 
 Design patterns are typical solutions to common problems
 in software design. Each pattern is like a blueprint
