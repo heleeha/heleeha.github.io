@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: The Vague Concept of Design Patterns
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-12
+date: 2021-12-01
 labels:
   - Software engineering 
   - Design patterns
