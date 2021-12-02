@@ -18,9 +18,8 @@ design patterns are typical and reusable solutions that can be used for commonly
 We can say that the patterns are templates that can be costumized to solve a spesific design problem, and they are best practices for solving common problems.
 Design patterns originate from Cristopher Alexander, in 1977 he wrote that a design pattern "describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice."
 
-Design patterns can be categorized into creational patterns, structural patterns and behavioral patterns.
-Factory and Sigelton are examples of creational patterns.
-Observer is an example of a structural pattern.
+I have used design patterns sevral times without actually being aware of it. I have for instance used design patterns in my "Bridging the Gap" project that can be found here (https://github.com/bridging-the-gap/bridging-the-gap)
+
 
 
 
