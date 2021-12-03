@@ -15,7 +15,7 @@ design patterns are typical and reusable solutions that can be used for commonly
 We can say that the patterns are templates that can be customized to solve a specific design problem, and they are best practices for solving common problems.
 Design patterns originate from Cristopher Alexander, in 1977 he wrote that a design pattern "describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice."
 
- <img "ui medium right floated rounded image" src="../images/design-patterns.png">
+ <img class="ui medium right floated rounded image" src="../images/design-patterns.png">
 
 
 ## Design patterns become real
