@@ -10,25 +10,18 @@ labels:
 ---
 
 
-“What are design patterns?”, followed by “What design patterns have you used in your own code?”
-
 Design patterns is a vague concept that is difficult to grasp. After watching a couple of videos and searching the internet for a while, I finally feel like 
 I have an understanding of what design patterns actually are. To sum it up I would say; 
 design patterns are typical and reusable solutions that can be used for commonly occuring problems in software design. 
 We can say that the patterns are templates that can be costumized to solve a spesific design problem, and they are best practices for solving common problems.
 Design patterns originate from Cristopher Alexander, in 1977 he wrote that a design pattern "describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice."
 
-I have used design patterns sevral times without actually being aware of it. I have for instance used design patterns in my "Bridging the Gap" project that can be found [here](https://github.com/bridging-the-gap/bridging-the-gap)
+## Design patterns become real
+When just reading about what design patterns are it can be quite difficult to understand how they work in practice. For me the lightbulb went on when I looked at how I had actually used design patterns in my existing projects.I realized that I have used design patterns sevral times without actually being aware of it. When using Javascript and Meteor a lot of times I have used design patterns without knowing it, since these design patterns are implemented into them. In javascript I have used the "Prototype" design pattern when making objects by making a kopy of a instance that is prototypical. Now that I know that by doing this I am using a design pattern, I find it even easier to understand the difference between this and making classes in object oriented languages like c++. 
+
+I have also used design patterns in my "Bridging the Gap" project that can be found [here](https://github.com/bridging-the-gap/bridging-the-gap). The Observer pattern has an object that maintains a list of its dependents and notifies if there are changes in states. We used Meteor's own "Observer" pattern "publish-describe" in this project, here the server publishes the collections and the client subscribes to the collection that is needed to render the page.
+In this project we have also used design patterns that are spesific to the project and not a part of Javascript or Meteor. We used the "Singelton" pattern that provides a global variable. The variable "Profiles" in the "Bridging the gap" project can be viewed as a sigelton instance of the ProfilesCollection.
 
 
-
-
-Design patterns are typical solutions to common problems
-in software design. Each pattern is like a blueprint
-that you can customize to solve a particular
-design problem in your code.
-This past week I experienced using UI frameworks for the first time. I learned the concepts of Semantic UI and tried making a couple of web pages using it. Semantic UI is a front-end development framework designed for theming. It contains pre-built semantic components that help create modern and responsive layouts using human-friendly HTML. I found it really difficult to learn, and because I am quite new to HTML and CSS as well I found it all a bit confusing. Learning UI Frameworks for the first time can take some time and you need to put in a bit of effort, but when you have learned your first UI Framework it is easier to learn other UI Frameworks.
-
-## A web page without Semantic UI
-
-Underneath you can see images of two different web pages about browser history. I made this website using only raw HTML and CSS at first. You can see the result in the images, the l
+## Easier life using design patterns
+When looking at how I have used design patterns I realize that they make coding a lot easier. Instead of needing to come up with new ideas and spending a lot of time trying to figure out how to solve a problem, you can simply find the design pattern that solves your problem. In this way we can also stadarize the way of solving different problems and make it easier to collaborate and maintain code.
