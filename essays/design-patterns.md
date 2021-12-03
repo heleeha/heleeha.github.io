@@ -9,7 +9,6 @@ labels:
   - Design patterns
 ---
 
-
 Design patterns is a vague concept that is difficult to grasp. After watching a couple of videos and searching the internet for a while, I finally feel like 
 I have an understanding of what design patterns actually are. To sum it up I would say; 
 design patterns are typical and reusable solutions that can be used for commonly occuring problems in software design. 
