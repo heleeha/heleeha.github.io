@@ -15,9 +15,8 @@ design patterns are typical and reusable solutions that can be used for commonly
 We can say that the patterns are templates that can be customized to solve a specific design problem, and they are best practices for solving common problems.
 Design patterns originate from Cristopher Alexander, in 1977 he wrote that a design pattern "describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such way that you can use this solution a million times over, without ever doing it the same way twice."
 
-<div class="ten wide column">
-  <img class="ui image" src="../images/browser_big.png">
-</div>
+ <img class="ui image" src="../images/design-patterns.png">
+
 
 ## Design patterns become real
 When just reading about what design patterns are, it can be quite difficult to understand how they work in practice. For me, the lightbulb went on when I looked at how I had actually used design patterns in my existing projects. I realized that I have used design patterns several times without actually being aware of them. When using Javascript and Meteor a lot of times I have used design patterns without knowing it, since these design patterns are implemented into languages and frameworks. In Javascript, I have used the "Prototype" design pattern when making objects by making a copy of an instance that is prototypical. Now that I know that by doing this I am using this design pattern, I find it even easier to understand the difference between this and making classes in object-oriented languages like C++.
