@@ -1,11 +1,3 @@
----
-title: Becoming a software engineer 
-# All dates must be YYYY-MM-DD format!
-date: 2021-09-01
-labels:
-  - Engineering
-  - Software engineering 
----
 
 I am very interested in technology, I have always loved problem-solving and I love to use my brain for logical thinking. I have for instance always loved to solve problems like sudoku and other logical games. This is one of the reasons why I am very interested in software engineering. Software engineering is also very interesting to me as it is a broad field with many opportunities. It is also a field where you have the opportunity for continuous learning. One of the things I am passionate about is to challenge myself and learn new things. Therefore, I believe software engineering is a good fit for me, and I am excited to learn more.
 
