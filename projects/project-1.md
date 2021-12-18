@@ -24,7 +24,7 @@ In the beginning of the project we desiged our program using UML. We desiged the
 
 I was in a team with one other person and we did most of the project together and contributed the same amount. We distributed the workload between us and discussed if there were any issues.
 
-Here is a link to the github repository with the source code: [Heislab](https://github.com/heleeha/heislab2).
+Here is a link to the github repository with the source code: [Elevator](https://github.com/heleeha/heislab2).
 
 
 
