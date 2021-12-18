@@ -29,7 +29,7 @@ browse through companies, filtered by location, as well as browse through all st
 properly or something on the site is inappropriate. The admin user gets these reports and can decide what to do about the issues. The admin user can also add new 
 choices for skills and locations as the users only can choose from a list when choosing these.
 
-<img class="ui image" src="../images/browse-companies-m3.png"> *Landing page for "Bridging the Gap"*
+<img class="ui image" src="../images/browse-companies-m3.png"> *Browse companies page for "Bridging the Gap". Filter set to US*
 
 The web application was implemented using Javascript, Meteor, React, and Mongo DB. To collaborate we used the same IDEA; IntelliJ, ESlint coding standard, and Github. The team collaborated and designed the layout together, and all team members were each responsible for some pages. I was mainly responsible for the 
 "Jobs", "Browse Students" and "Browse Companies" pages. I also collaborated with one other team member on the "Sign up" page, and helped other team members with 
