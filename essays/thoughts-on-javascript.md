@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: Learning Javascript with an Athletic Software Engineering Approach 
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-26
