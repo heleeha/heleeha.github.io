@@ -13,7 +13,7 @@ labels:
 summary: Programming multiple elevators to cooperate and serve orders using network.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/welevator.png"> *Picture of one elevator*
+<img class="ui medium right floated rounded image" src="../images/welevator.png">
 
 In this project my team programmed multiple elevators by creating software for controlling n elevators working in parallel across m floors. The elevators were supposed to sufficiently sereve cab and hall orders and work logically. No orders were supposed to be lost. The goal of the project was to make sure the program was ready for the Factory Acceptance Test(FAT) at a given date, as well as making a good design before the implementation began and writing good and readable code.
 
