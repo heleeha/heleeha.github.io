@@ -23,12 +23,13 @@ each milestone. All team members worked on their own issues for all milestones b
 
 <img class="ui image" src="../images/bridging-the-gap.png"> *Landing page for "Bridging the Gap"*
 
-On the website, both students and companies can sign up. Companies can add and edit job listings and events, they can also browse through students, and filter them by skills, 
-and in this way get in contact with the students. Companies can also see all events, job listings and browse through all companies. Students can look through job listings and events, and favorite the ones that they find interesting. 
+On the website, both students and companies can sign up. Companies can add and edit job listings and events, they can also browse through students, and filter them by skills, and in this way get in contact with the students. Companies can also see all events, job listings and browse through all companies. Students can look through job listings and events, and favorite the ones that they find interesting. 
 For the job listings, they can also click on a link that leads to the original listing on the company website, with more information. Students can also 
 browse through companies, filtered by location, as well as browse through all students. All users can also add reports if for instance something does not work 
 properly or something on the site is inappropriate. The admin user gets these reports and can decide what to do about the issues. The admin user can also add new 
 choices for skills and locations as the users only can choose from a list when choosing these.
+
+<img class="ui image" src="../images/browse-companies-m3.png"> *Landing page for "Bridging the Gap"*
 
 The web application was implemented using Javascript, Meteor, React, and Mongo DB. To collaborate we used the same IDEA; IntelliJ, ESlint coding standard, and Github. The team collaborated and designed the layout together, and all team members were each responsible for some pages. I was mainly responsible for the 
 "Jobs", "Browse Students" and "Browse Companies" pages. I also collaborated with one other team member on the "Sign up" page, and helped other team members with 
