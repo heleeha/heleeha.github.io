@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/nnumbers.jpg
+image: images/bridging-the-gap.jpg
 title: My First Website
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
@@ -15,13 +15,13 @@ labels:
 summary: My first website project. "Bridging the gap" is a website to connect students and companies.
 ---
 
-<img class="ui image" src="../images/bridging-the-gap.png"> *Landing page for "Bridging the Gap"*
-
 This project was the final project in the course "ICS 314 - Software Engineering  I". This is the first time I have made a complete and functional website. 
 The goal of the project was to make a website that would be useful for the University of Hawaii at Manoa community. Our website tries to build a "bridge" between 
 students and companies, such that students can learn more about opportunities like internships, part-time jobs, and jobs after graduation. We worked in a team of 
 five people and used issue-driven management when working on the project. We worked in iterations with three different milestones and had different goals for 
 each milestone. All team members worked on their own issues for all milestones but collaborated and discussed when having problems.
+
+<img class="ui image" src="../images/bridging-the-gap.png"> *Landing page for "Bridging the Gap"*
 
 On the website, both students and companies can sign up. Companies can add and edit job listings and events, they can also browse through students, and filter them by skills, 
 and in this way get in contact with the students. Companies can also see all events, job listings and browse through all companies. Students can look through job listings and events, and favorite the ones that they find interesting. 
