@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/bridging-the-gap.png
+image: images/bridging-the-gap-f.png
 title: My First Website
 permalink: projects/website
 # All dates must be YYYY-MM-DD format!
