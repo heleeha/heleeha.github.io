@@ -15,7 +15,7 @@ labels:
 summary: My first website project. "Bridging the gap" is a website to connect students and companies.
 ---
 
-<img class="ui medium image" src="../images/classifications_types.png"> *Different classification types*
+<img class="ui medium image" src="../images/bridging-the-gap.png"> *Different classification types*
 
 This project was the final project in the course "ICS 314 - Software Engineering  I". This is the first time I have made a complete and functional website. 
 The goal of the project was to make a website that would be useful for the University of Hawaii at Manoa community. Our website tries to build a "bridge" between 
