@@ -8,6 +8,7 @@ labels:
   - Engineering
   - Software engineering 
 ---
+<img class="ui medium right floated rounded image" src="../images/Top-IDE.jpeg">
 
 Have you ever worked on a big software project, and done all the work by yourself? This may be true for many students, and they may think that it is easier to do everything alone. However, in reality in the working life, you will rarely do a project all by yourself. The projects are too big and complex, and the code will probably need maintaining and upgrading. Therefore, it is important to understand that software engineering is a lot more than only being able to make a website or an app with some lines of code. It is a whole process and being able to understand and use concepts like development environments, coding standards, and agile project management are important parts of the process. 
 
