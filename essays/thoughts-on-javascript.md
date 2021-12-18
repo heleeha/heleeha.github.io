@@ -1,12 +1,3 @@
----
-title: Learning Javascript with an Athletic Software Engineering Approach 
-# All dates must be YYYY-MM-DD format!
-date: 2021-08-26
-labels:
-  - Athletic Software Engineering
-  - Learning
-  - Javascript
----
 
 As a computer-science student have had the oppertuity to decvelop software in languages like C, C++, Go, Python and Matlab. I have yet to develop software using Javascript. Therefore, I am excited to learn Javascript in the course ICS 314 Software Engineering. This time I will be learning a new programmming language using an athletic software engineering approach, I am exited to try this out and learn more about it.
 
