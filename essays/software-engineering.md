@@ -1,6 +1,4 @@
 ---
-layout: essay
-type: essay
 title: Becoming a software engineer 
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-01
