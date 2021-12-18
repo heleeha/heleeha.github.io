@@ -42,6 +42,11 @@
       "name": "machine learning",
       "keywords": [
       ]
+    },
+    {
+      "name": "robotics",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -53,6 +58,7 @@
         "C++",
         "Python",
         "Javascript",
+        "React",
         "Matlab",
         "Go",
         "Assembly"
