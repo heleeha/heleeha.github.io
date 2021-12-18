@@ -38,4 +38,4 @@ From this project, I have learned how to develop and deploy a web application fr
 I have also learned how to use databases and coding to build a website with continuous input from users, as well as gaining insight into how to work in a 
 software development team using issue-driven management and tools like Github and project milestones to function optimally as a team.
 
-Further information about the project can be found [here](https://bridging-the-gap.github.io), and the source code can be found [here]
+Further information about the project can be found [here](https://bridging-the-gap.github.io), and the source code can be found [here](https://github.com/bridging-the-gap/bridging-the-gap)
